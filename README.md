@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Religious Exogamy and Marital Happiness
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+Using General Social Survey data on married couples, we will look at the relationship between religious exogamy and reported happiness with the marriage. Religious *exogamy* means a marriage where the partners are of a different religion, whereas religious *endogamy* would indicate a marriage where both partners belong to the same religion. In addition, we will explore whether the relationship between religious exogamy and marital happiness is different depending on the number of children ever born. 
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. How is religious exogamy associated with reports of marital happiness?
+2. How does the relationship between religious exogamy and marital happiness differ by the number of children ever born? 
 
 ## Technical Details
 

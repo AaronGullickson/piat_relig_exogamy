@@ -1,5 +1,5 @@
 ---
-title: "Full Report on [Name Research Project]"
+title: "Full Report on Religious Exogamy and Marital Happiness"
 author: "Your name here"
 output: pdf_document
 ---
@@ -10,7 +10,7 @@ output: pdf_document
 ## code.
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, 
                       error = FALSE, fig.align = "center", fig.height = 4)
-#load("input/data.RData")
+load("input/gss_relig_exogamy.RData")
 library(ggplot2)
 library(texreg)
 ```
